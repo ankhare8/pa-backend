@@ -1,0 +1,24 @@
+# Build artifacts
+/build/
+/dist/
+*.class
+.env
+
+# Dependencies
+/node_modules/
+/vendor/
+
+# Temporary files and logs
+*.log
+*.tmp
+temp/
+
+# IDE and editor files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Sensitive information (example, use caution)
+config.json
+secrets.js
